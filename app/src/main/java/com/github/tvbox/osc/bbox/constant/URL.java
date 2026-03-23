@@ -1,8 +1,9 @@
 package com.github.tvbox.osc.bbox.constant;
 
 public class URL {
-    public static String DOMAIN_NAME_PROXY = "https://raw.bunnyxyz.eu.org/";
-    
+//    public static String DOMAIN_NAME_PROXY = "https://raw.bunnyxyz.eu.org/";
+    public static String DOMAIN_NAME_PROXY = "";
+
     public static final String GITHUB_VERSION_PATH = "https://gitea.com/404ynnub/resource/raw/branch/main/version.json";
     // 默认线路
     public static final String DEFAULT_API_URL = "http://www.饭太硬.net/tv/";

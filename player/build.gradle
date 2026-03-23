@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace = "com.github.tvbox.osc.bbox.player"
     compileSdkVersion 30
 
     defaultConfig {
